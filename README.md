@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaveshwaran
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on projects related to anything with a bit if one's and zero's.
+- 💞️ I’m looking to collaborate on projects related to anything with a bit of one's and zero's.
 - 📫 You can reach me through dkaveshwaran@gmail.com
 
 <!---
